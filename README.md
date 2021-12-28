@@ -36,5 +36,6 @@ const randomPerson = () => {
     setIndex(checkNumber(randomNumber))
 }
 ```
+![preview](https://user-images.githubusercontent.com/74355328/147526106-0008fd19-90a6-459c-8ede-72fdbf057688.gif)
 
 <참고> Coding Addict
